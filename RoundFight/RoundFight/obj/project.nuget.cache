@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xo7A+lB2sL9ihe1cpPWNZG5BsiWDz7jx3SJNFUCdTg1Y/TJP1RXkInIoHFSCqRQlyz2uGGelSFysBByOY0NbXw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\james.hsueh77\\Desktop\\Design Pattern\\RoundFight\\RoundFight\\RoundFight.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.coreop.net/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

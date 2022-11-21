@@ -1,0 +1,15 @@
+C:\Users\james.hsueh77\Desktop\Design Pattern\RoundFight\RoundFightStrategyMode\bin\Debug\net6.0\RoundFightStrategyMode.exe
+C:\Users\james.hsueh77\Desktop\Design Pattern\RoundFight\RoundFightStrategyMode\bin\Debug\net6.0\RoundFightStrategyMode.deps.json
+C:\Users\james.hsueh77\Desktop\Design Pattern\RoundFight\RoundFightStrategyMode\bin\Debug\net6.0\RoundFightStrategyMode.runtimeconfig.json
+C:\Users\james.hsueh77\Desktop\Design Pattern\RoundFight\RoundFightStrategyMode\bin\Debug\net6.0\RoundFightStrategyMode.dll
+C:\Users\james.hsueh77\Desktop\Design Pattern\RoundFight\RoundFightStrategyMode\bin\Debug\net6.0\RoundFightStrategyMode.pdb
+C:\Users\james.hsueh77\Desktop\Design Pattern\RoundFight\RoundFightStrategyMode\obj\Debug\net6.0\RoundFightStrategyMode.csproj.AssemblyReference.cache
+C:\Users\james.hsueh77\Desktop\Design Pattern\RoundFight\RoundFightStrategyMode\obj\Debug\net6.0\RoundFightStrategyMode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\james.hsueh77\Desktop\Design Pattern\RoundFight\RoundFightStrategyMode\obj\Debug\net6.0\RoundFightStrategyMode.AssemblyInfoInputs.cache
+C:\Users\james.hsueh77\Desktop\Design Pattern\RoundFight\RoundFightStrategyMode\obj\Debug\net6.0\RoundFightStrategyMode.AssemblyInfo.cs
+C:\Users\james.hsueh77\Desktop\Design Pattern\RoundFight\RoundFightStrategyMode\obj\Debug\net6.0\RoundFightStrategyMode.csproj.CoreCompileInputs.cache
+C:\Users\james.hsueh77\Desktop\Design Pattern\RoundFight\RoundFightStrategyMode\obj\Debug\net6.0\RoundFightStrategyMode.dll
+C:\Users\james.hsueh77\Desktop\Design Pattern\RoundFight\RoundFightStrategyMode\obj\Debug\net6.0\refint\RoundFightStrategyMode.dll
+C:\Users\james.hsueh77\Desktop\Design Pattern\RoundFight\RoundFightStrategyMode\obj\Debug\net6.0\RoundFightStrategyMode.pdb
+C:\Users\james.hsueh77\Desktop\Design Pattern\RoundFight\RoundFightStrategyMode\obj\Debug\net6.0\RoundFightStrategyMode.genruntimeconfig.cache
+C:\Users\james.hsueh77\Desktop\Design Pattern\RoundFight\RoundFightStrategyMode\obj\Debug\net6.0\ref\RoundFightStrategyMode.dll
